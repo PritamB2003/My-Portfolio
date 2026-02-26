@@ -1,0 +1,23 @@
+{
+  "name": "pritam-bishal-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Pritam Bishal, B.Tech CSE (AIML) student.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo \"Static site – no build step\""
+  },
+  "keywords": [
+    "portfolio",
+    "student",
+    "pritam",
+    "bishal",
+    "cse",
+    "aiml"
+  ],
+  "author": "Pritam Bishal",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
+
